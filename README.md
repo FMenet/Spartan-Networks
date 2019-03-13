@@ -1,6 +1,23 @@
-# Spartan-Networks
-Research on attack-agnostic defenses of Deep Neural Networks
+--------------------------------------
+Spartan Networks
+--------------------------------------
 
+Author : François Menet
 
-# When will you put the code ?
-When my master thesis paper will be over, and the paper published. I cannot do this before.
+Done with : Polytechnique Montréal, Myelin NeuroWorks
+
+--------------------------------------
+What are Spartan Networks ?
+--------------------------------------
+
+Spartan Networks are networks that trade off precision for robustness
+
+-------------------------------------
+What is the goal of this code ?
+-------------------------------------
+
+This is a *somewhat* badly written code to prove the existence of a robustness mechanism when gradients are suppressed within a Network.
+
+For more information on this, see the related arxiv paper: https://arxiv.org/abs/1812.06815
+
+-------------------------------------
